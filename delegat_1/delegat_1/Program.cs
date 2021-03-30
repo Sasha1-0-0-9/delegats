@@ -29,7 +29,7 @@ namespace delegat_1
                 {
                     string[] data = Console.ReadLine().Split(' ');
                     int operation = int.Parse(data[0]);
-                    double num = int.Parse(data[1]);
+                    double num = double.Parse(data[1]);
                     Console.WriteLine(delegat[operation](num));
                 }
                 catch (FormatException)

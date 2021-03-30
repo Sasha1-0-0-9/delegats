@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\oop_labs\\delegat_1\\delegat_1\\delegat_1.csproj",
+      "projectUniqueName": "D:\\oop_labs\\delegats_lab\\delegat_1\\delegat_1\\delegat_1.csproj",
       "projectName": "delegat_1",
-      "projectPath": "D:\\oop_labs\\delegat_1\\delegat_1\\delegat_1.csproj",
+      "projectPath": "D:\\oop_labs\\delegats_lab\\delegat_1\\delegat_1\\delegat_1.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "D:\\oop_labs\\delegat_1\\delegat_1\\obj\\",
+      "outputPath": "D:\\oop_labs\\delegats_lab\\delegat_1\\delegat_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

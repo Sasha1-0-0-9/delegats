@@ -24,3 +24,16 @@ D:\oop_labs\delegat_1\delegat_1\obj\Debug\netcoreapp3.1\delegat_1.AssemblyInfo.c
 D:\oop_labs\delegat_1\delegat_1\obj\Debug\netcoreapp3.1\delegat_1.dll
 D:\oop_labs\delegat_1\delegat_1\obj\Debug\netcoreapp3.1\delegat_1.pdb
 D:\oop_labs\delegat_1\delegat_1\obj\Debug\netcoreapp3.1\delegat_1.genruntimeconfig.cache
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\bin\Debug\netcoreapp3.1\delegat_1.exe
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\bin\Debug\netcoreapp3.1\delegat_1.deps.json
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\bin\Debug\netcoreapp3.1\delegat_1.runtimeconfig.json
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\bin\Debug\netcoreapp3.1\delegat_1.runtimeconfig.dev.json
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\bin\Debug\netcoreapp3.1\delegat_1.dll
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\bin\Debug\netcoreapp3.1\delegat_1.pdb
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\obj\Debug\netcoreapp3.1\delegat_1.csprojAssemblyReference.cache
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\obj\Debug\netcoreapp3.1\delegat_1.csproj.CoreCompileInputs.cache
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\obj\Debug\netcoreapp3.1\delegat_1.AssemblyInfoInputs.cache
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\obj\Debug\netcoreapp3.1\delegat_1.AssemblyInfo.cs
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\obj\Debug\netcoreapp3.1\delegat_1.dll
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\obj\Debug\netcoreapp3.1\delegat_1.pdb
+D:\oop_labs\delegats_lab\delegat_1\delegat_1\obj\Debug\netcoreapp3.1\delegat_1.genruntimeconfig.cache
